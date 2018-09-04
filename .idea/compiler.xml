@@ -16,20 +16,27 @@
         <module name="springcloud-feign-consumer" />
         <module name="springcloud-feign-provider" />
         <module name="springcloud-feign-register" />
-        <module name="springcloud-test" />
+        <module name="springcloud-healthcheck-consumer" />
+        <module name="springcloud-healthcheck-provider" />
+        <module name="springcloud-healthcheck-register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="springcloud-eureka-consumer" target="1.5" />
+      <module name="springcloud-eureka-parent" target="1.5" />
       <module name="springcloud-eureka-provider" target="1.5" />
       <module name="springcloud-eureka-registerCenterNodeOne" target="1.5" />
       <module name="springcloud-eureka-registerCenterNodeThree" target="1.5" />
       <module name="springcloud-eureka-registerCenterNodeTwo" target="1.5" />
+      <module name="springcloud-eureka-security-parent" target="1.5" />
       <module name="springcloud-eureka-security-provider" target="1.5" />
       <module name="springcloud-eureka-security-register" target="1.5" />
       <module name="springcloud-feign-consumer" target="1.5" />
       <module name="springcloud-feign-provider" target="1.5" />
       <module name="springcloud-feign-register" target="1.5" />
+      <module name="springcloud-healthcheck-consumer" target="1.5" />
+      <module name="springcloud-healthcheck-provider" target="1.5" />
+      <module name="springcloud-healthcheck-register" target="1.5" />
       <module name="springcloud-parent" target="1.5" />
       <module name="springcloud-test" target="1.5" />
     </bytecodeTargetLevel>

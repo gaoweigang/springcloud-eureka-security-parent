@@ -9,9 +9,9 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka-registerCenterNodeTwo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-security-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-security-register" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-feign-consumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-feign-provider" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloud-feign-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-healthcheck-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-healthcheck-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-healthcheck-register" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-test" charset="UTF-8" />
   </component>
 </project>

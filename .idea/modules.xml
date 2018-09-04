@@ -7,13 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-registerCenterNodeOne/springcloud-eureka-registerCenterNodeOne.iml" filepath="$PROJECT_DIR$/springcloud-eureka-registerCenterNodeOne/springcloud-eureka-registerCenterNodeOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-registerCenterNodeThree/springcloud-eureka-registerCenterNodeThree.iml" filepath="$PROJECT_DIR$/springcloud-eureka-registerCenterNodeThree/springcloud-eureka-registerCenterNodeThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-registerCenterNodeTwo/springcloud-eureka-registerCenterNodeTwo.iml" filepath="$PROJECT_DIR$/springcloud-eureka-registerCenterNodeTwo/springcloud-eureka-registerCenterNodeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-security-parent.iml" filepath="$PROJECT_DIR$/springcloud-eureka-security-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-security-provider/springcloud-eureka-security-provider.iml" filepath="$PROJECT_DIR$/springcloud-eureka-security-provider/springcloud-eureka-security-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-security-register/springcloud-eureka-security-register.iml" filepath="$PROJECT_DIR$/springcloud-eureka-security-register/springcloud-eureka-security-register.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-feign-consumer/springcloud-feign-consumer.iml" filepath="$PROJECT_DIR$/springcloud-feign-consumer/springcloud-feign-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-feign-provider/springcloud-feign-provider.iml" filepath="$PROJECT_DIR$/springcloud-feign-provider/springcloud-feign-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-feign-register/springcloud-feign-register.iml" filepath="$PROJECT_DIR$/springcloud-feign-register/springcloud-feign-register.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-parent.iml" filepath="$PROJECT_DIR$/springcloud-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud-test/springcloud-test.iml" filepath="$PROJECT_DIR$/springcloud-test/springcloud-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-healthcheck-consumer/springcloud-healthcheck-consumer.iml" filepath="$PROJECT_DIR$/springcloud-healthcheck-consumer/springcloud-healthcheck-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-healthcheck-provider/springcloud-healthcheck-provider.iml" filepath="$PROJECT_DIR$/springcloud-healthcheck-provider/springcloud-healthcheck-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-healthcheck-register/springcloud-healthcheck-register.iml" filepath="$PROJECT_DIR$/springcloud-healthcheck-register/springcloud-healthcheck-register.iml" />
     </modules>
   </component>
 </project>

@@ -8,19 +8,10 @@
     <artifactId>springcloud-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>springcloud-eureka-provider</module>
-        <module>springcloud-eureka-consumer</module>
-        <!--服务注册中心 集群 节点1,2,3-->
-        <module>springcloud-eureka-registerCenterNodeOne</module>
-        <module>springcloud-eureka-registerCenterNodeTwo</module>
-        <module>springcloud-eureka-registerCenterNodeThree</module>
-
+        <!--添加安全校验-->
         <module>springcloud-eureka-security-provider</module>
         <module>springcloud-eureka-security-register</module>
-        <module>springcloud-feign-register</module>
-        <module>springcloud-feign-provider</module>
-        <module>springcloud-feign-consumer</module>
-        <module>springcloud-test</module>
+        <!--熔断-->
     </modules>
 
     <packaging>pom</packaging>
